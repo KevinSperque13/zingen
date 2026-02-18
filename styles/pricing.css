@@ -16,7 +16,7 @@
     margin-top: .25rem;
   }
 
-  & zin-princing {
+  & zin-pricing {
     display: block;
     padding-block: 1.5rem;
     font: var(--fw-bold) var(--fs-price)/1.2 var(--ff-sans);
