@@ -18,9 +18,9 @@
 
   & zin-princing {
     display: block;
-    padding-block: .25rem;
-    font: var(--fs-price)/1.2 var(--ff-sans);
-    font-size: 800;
+    padding-block: 1.5rem;
+    font: var(--fw-bold) var(--fs-price)/1.2 var(--ff-sans);
+    
   }
 
   & zin-pricing small {
